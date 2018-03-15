@@ -1,0 +1,3 @@
+<design:component label="CME Community Alerts">
+	<design:attribute name="componentName" label="Component Name" description="Component Name of Community Alerts that should be displayed" />
+</design:component>

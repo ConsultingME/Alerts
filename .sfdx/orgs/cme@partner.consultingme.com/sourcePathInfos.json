@@ -1,0 +1,497 @@
+[
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521123307768,
+            "changeTime": 1521123307768,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521123307768,
+            "changeTime": 1521123307768,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205180,
+            "changeTime": 1521126205180,
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205231,
+            "changeTime": 1521126205231,
+            "contentHash": "57f038673d89517c0ec5a97650ad545565cc2532",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126593450,
+            "changeTime": 1521126593450,
+            "contentHash": "5f71b92eecd4083d31285f21299dc08f914fcfd3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1103,
+            "modifiedTime": 1521126205233,
+            "changeTime": 1521126356608,
+            "contentHash": "e0742e233cef64dfdce6fe25c370a6b0b4cd7c97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1521126205232,
+            "changeTime": 1521126205232,
+            "contentHash": "a3a27982aa27c48785eb52fcadd6832f536db822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.css",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 350,
+            "modifiedTime": 1521126205234,
+            "changeTime": 1521126205234,
+            "contentHash": "1e4f84a015664d4d0aed6c65c647bd488ca4ba5e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.design",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlerts.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 207,
+            "modifiedTime": 1521126205236,
+            "changeTime": 1521126205236,
+            "contentHash": "eefaba8a41bd077e4e410762253137ea775cf8ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlertsController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlertsController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 153,
+            "modifiedTime": 1521126205237,
+            "changeTime": 1521126205237,
+            "contentHash": "d59ede63c4a13a7f220ade3aad44888ec9df8aa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlertsHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\aura\\CommunityAlerts\\CommunityAlertsHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1147,
+            "modifiedTime": 1521126205238,
+            "changeTime": 1521126205238,
+            "contentHash": "0dec51b153d6df7308cbdd038a0e67c1a1fa6f7d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205156,
+            "changeTime": 1521126205156,
+            "contentHash": "045eb7f80fe691925a3daccf4704d73706f4be63",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsService.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsService.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 423,
+            "modifiedTime": 1521126205152,
+            "changeTime": 1521126205152,
+            "contentHash": "5ef6b560d964d0fbbb401f6e3d812a6d2b7a5a18",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsService.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsService.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521126205150,
+            "changeTime": 1521126205150,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsServiceTest.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsServiceTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 8893,
+            "modifiedTime": 1521126205156,
+            "changeTime": 1521126205156,
+            "contentHash": "09bf1a9895b892e8672913f1771fdd1cee6712a8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsServiceTest.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\classes\\CommunityAlertsServiceTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1521126205155,
+            "changeTime": 1521126205155,
+            "contentHash": "ec29c6f2ff617299f8e53d0ea63d440cd27207eb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205159,
+            "changeTime": 1521126205159,
+            "contentHash": "e6ba2eed692e54d5348fdfed602ba7bd850375a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\layouts\\Community_Alerts__c-Community Alerts Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\layouts\\Community_Alerts__c-Community Alerts Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2785,
+            "modifiedTime": 1521126205162,
+            "changeTime": 1521126205162,
+            "contentHash": "b95b06f2434c772df8663e6038407323e196f22f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205183,
+            "changeTime": 1521126205183,
+            "contentHash": "65e0c60cd4464b47773621b34a54577e17206bde",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205220,
+            "changeTime": 1521126205220,
+            "contentHash": "a3bc62e6404e6010aed7396929cf42960f1fbb1b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\Community_Alerts__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\Community_Alerts__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3901,
+            "modifiedTime": 1521126205187,
+            "changeTime": 1521126205187,
+            "contentHash": "885b4b8e626b826da7ecce3227786ac1988f42c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205204,
+            "changeTime": 1521126205204,
+            "contentHash": "3ecc7c7015c3067d33563fd0e3c4fe274ab66387",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Component_Name__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Component_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 374,
+            "modifiedTime": 1521126205190,
+            "changeTime": 1521126205190,
+            "contentHash": "12067ea5bd23be3d1a22f800ff945f2213d1d89e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Details__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Details__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 347,
+            "modifiedTime": 1521126205193,
+            "changeTime": 1521126205193,
+            "contentHash": "366ff8195d335dcab3607438960e4b9cbd3bd5b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Expiration_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Expiration_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1521126205196,
+            "changeTime": 1521126205196,
+            "contentHash": "c249c8752b8e657c0907fc558f257b694cc1ea45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Language__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Language__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 639,
+            "modifiedTime": 1521126205200,
+            "changeTime": 1521126205200,
+            "contentHash": "0b0218fbe8d9d36577269029e0cbc470e197a7d5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 314,
+            "modifiedTime": 1521126205203,
+            "changeTime": 1521126205203,
+            "contentHash": "f5b04b3370748fb868e5664a062079529159bba2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Type__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\fields\\Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1129,
+            "modifiedTime": 1521126205219,
+            "changeTime": 1521126205219,
+            "contentHash": "98fc9dfe22329bc1d0c7e38b7f2d93ec232e49bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\listViews",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126205220,
+            "changeTime": 1521126205220,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\objects\\Community_Alerts__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1521126205223,
+            "changeTime": 1521126205223,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521125474168,
+            "changeTime": 1521125474168,
+            "contentHash": "62c4cf8d8c4a3984d123f78a10479031a480d0a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\permissionsets\\Alerts_Permission_Set.permissionset-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts\\force-app\\main\\default\\permissionsets\\Alerts_Permission_Set.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1907,
+            "modifiedTime": 1521125474170,
+            "changeTime": 1521125474170,
+            "contentHash": "eaade02bc5153911ef569dbf1b4df120713c9fb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Consulting Maine\\Alerts\\Alerts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Consulting Maine\\Alerts\\Alerts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1521126232721,
+            "changeTime": 1521126232721,
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

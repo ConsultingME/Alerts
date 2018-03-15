@@ -1,0 +1,24 @@
+.THIS {
+    margin-top: 6px;
+}
+
+.THIS .lmi-alert_container {
+    position: inherit;
+    margin-bottom: 6px;
+}
+
+.THIS .slds-notify {
+    background-color: #3498DB
+}
+
+.THIS .slds-theme--success {
+    background-color: #2fcc66;
+}
+
+.THIS .slds-theme--error {
+    background-color: #c23934;
+}
+
+.THIS .slds-theme--warning {
+    background-color: #ffe55d;
+}
